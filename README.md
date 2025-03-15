@@ -57,11 +57,6 @@ pip install -q requests torch bitsandbytes transformers sentencepiece accelerate
 - Adjust the Hugging Face model used for better transcription accuracy.
 
 ## Author
-
-**Pouria Ebrahimnezhad**\
-Created on **14-03-2025**
-
-## Contributing
-
-Feel free to open issues or submit pull requests if you’d like to improve the project!
+- **Pouria Ebrahimnezhad**
+- LinkedIn: [Pouria Ebrahimnezhad](https://www.linkedin.com/in/pouria-ebram/)
 
